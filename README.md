@@ -1,6 +1,6 @@
-# COVID-19 India — Data Analysis & Visualizations
+# COVID-19 India - Data Analysis & Visualizations
 
-**Author:** YASH  
+**Author:** YASH PAL
 **Project type:** Exploratory Data Analysis (EDA) + Visualizations  
 **Dataset (example):** Kaggle - COVID-19 India dataset  
 **Language / Tools:** Python, Jupyter Notebook, pandas, NumPy, Matplotlib, Seaborn, Plotly (optional), Streamlit/Dash (optional)
