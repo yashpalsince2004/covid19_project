@@ -2,7 +2,7 @@
 
 **Author:** YASH  
 **Project type:** Exploratory Data Analysis (EDA) + Visualizations  
-**Dataset (example):** Kaggle — COVID-19 India dataset  
+**Dataset (example):** Kaggle - COVID-19 India dataset  
 **Language / Tools:** Python, Jupyter Notebook, pandas, NumPy, Matplotlib, Seaborn, Plotly (optional), Streamlit/Dash (optional)
 
 ---
@@ -21,13 +21,13 @@ This repository contains an end-to-end analysis of COVID-19 data for India. The 
 
 ## Files in this repo
 
-- `data/` — raw dataset CSV(s) (download from Kaggle and place here)
-- `notebooks/covid_analysis.ipynb` — main Jupyter notebook (cleaning, EDA, plots)
-- `requirements.txt` — Python dependencies
-- `README.md` — this file
-- `slides/` — (optional) presentation summarizing insights
-- `app/` — (optional) Streamlit / Dash app for interactive exploration
-- `outputs/` — exported images / figures / sample CSV outputs
+- `data/` - raw dataset CSV(s) (download from Kaggle and place here)
+- `notebooks/covid_analysis.ipynb` - main Jupyter notebook (cleaning, EDA, plots)
+- `requirements.txt` - Python dependencies
+- `README.md` - this file
+- `slides/` - (optional) presentation summarizing insights
+- `app/` - (optional) Streamlit / Dash app for interactive exploration
+- `outputs/` - exported images / figures / sample CSV outputs
 
 ---
 
